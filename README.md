@@ -21,4 +21,4 @@ Aqui são algumas linguagems que tenho conhecimento:
   
 </div>
 
-![Snake animation](https://github.com/Nextore-0)
+
